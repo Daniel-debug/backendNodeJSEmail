@@ -19,3 +19,6 @@ https://www.mongodb.com/try/download/community
 
 ### 2.- Configurar a conexión a Base
 Iniciando el proyecto se crea automaticamente la base de datos
+
+### 2.- Documentación apis en produccion la dirección apunta a una instancia EC2 en AWS
+https://documenter.getpostman.com/view/2447599/SzzkbcJH?version=latest
