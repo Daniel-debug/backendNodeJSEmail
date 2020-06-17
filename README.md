@@ -24,5 +24,5 @@ El puerto donde se lanzara la aplicación nodeJS es el puerto "8080",
 si necesitan otro puerto como el "3000" favor de cambiarlo en este arhivo
 de configuración. 
 
-### 2.- Documentación apis en produccion la dirección apunta a una instancia EC2 en AWS
+### 2.- Documentación apis en producción, la dirección apunta a una instancia EC2 en AWS
 https://documenter.getpostman.com/view/2447599/SzzkbcJH?version=latest
